@@ -1,0 +1,49 @@
+body{
+    background-image: url(file:///C:/Users/Vit%C3%B3ria%20Catharine/Desktop/DEV%20WEB/social-proof-section-master/images/bg-pattern-bottom-desktop.svg);
+}
+.titulo{
+    color: darkmagenta;
+    padding: 35px;
+    margin: 35px;
+    font-size:20;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    color: plum;
+    font-size: 15;
+}
+.box{
+    position: absolute;
+    top: 100px;
+    margin-left: 500px;
+    
+}
+h6{
+    border: 10px solid rgb(248, 217, 248);
+    border-radius: 3px;
+    background-color: rgb(248, 217, 248);
+    border-width: 10px;
+    height: 10px;
+    text-align:center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkmagenta;
+}
+.Colton{
+    position: relative;
+    display: block;
+    width: 25%;
+    padding-bottom: 3%;
+    border-radius: 0.313rem;
+    overflow: hidden;
+    background-color:darkmagenta;
+    box-sizing: border-box;
+    margin: 0%;
+}
+
+.boxs{
+    
+    border-radius: 80px;
+}
+img{
+    border-radius: 90px;
+}
